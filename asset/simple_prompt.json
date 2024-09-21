@@ -1,0 +1,5 @@
+{
+    "_type":"prompt",
+    "input_variables":["name","what"],
+    "template":"test{name}test{what}test"
+}
