@@ -45,7 +45,11 @@ langchain_v0.1\Scripts\activate
 # 这样就建好了第一个虚拟空间
 ```
 - 按照顺序访问，注意01~33依赖该环境，请先在0.1中安装依赖包
-- 接着在终端中输入如下命令
+- 接着在终端中输入如下命令，来退出当前虚拟空间
+```
+deactivate
+```
+- 接着输入命令
 ```
 python -m venv langchain_v0.2
 langchain_v0.2\Scripts\activate
